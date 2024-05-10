@@ -1,1 +1,1 @@
-Rendering Collections and Modules
+PhoneBook app frontend using react without server
